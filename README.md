@@ -4,6 +4,6 @@
 
 - 🔭 I’m currently working on Pertamina bina medika [@pertamedika](https://www.pertamedika.co.id/)
 - 🌱 I’m interesting learning Python, KubeFlow, Golang , Flutter, Kubernetes
-- 📫 How to reach me: X -> [@dzakaeryan](https://twitter.com/dzakaeryan) , Linkedin -> [dzakaeryan](https://www.linkedin.com/in/dzaka-eryan-377166104/)
+- 📫 How to reach me: X [@dzakaeryan](https://twitter.com/dzakaeryan) , Linkedin [dzakaeryan](https://www.linkedin.com/in/dzaka-eryan-377166104/), Email dzakaeryan20@gmail.com
 - 😄 Pronouns: Bahasa and English
 
